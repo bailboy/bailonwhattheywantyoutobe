@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	font-family: arial;
+	background-image: url(Imagens/bg_bail.jpg);
+	background-size: 350px;
+	color: white;
+}
+
+h1  {
+	font-size: 100px;
+	text-shadow: 10px 7.5px black;
+	padding-top: 350px;
+}
+
+a {
+
+	color: black
+}
